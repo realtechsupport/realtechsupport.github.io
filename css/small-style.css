@@ -1,0 +1,138 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+    font-family: Arial,helvetica,sans-serif;
+    font-size: 0.9em;
+	text-align: center;
+}
+
+.center {
+	display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.container{
+    text-align:center;
+}
+
+.imagerow{
+    display:inline-block;
+    margin: 10px 1px;
+}
+
+.wrapper {
+	margin:0 auto;
+	width: 100%;
+}
+
+.hide{
+	font-size:1px;
+	margin-left:-9999px;
+	margin-bottom:0px;
+	margin-top:0px;
+	padding:0px;
+}
+.resize {
+	margin: 0 5.5%;
+	width:100%;
+	height:auto;
+}
+
+ul {
+    list-style-type: none;
+    margin-left: -30px;
+    overflow: hidden;
+}
+
+li {
+    display:inline-block;
+	background: #fff;
+}
+
+a {
+    background-color: #dddddd;
+}
+a.nav-link, a.nav-link:visited {
+    color: #000;
+    text-decoration: none;
+	padding: 0 20px;
+}
+a.courses-nav-link, a.courses-nav-link:visited {
+    color: #000;
+    text-decoration: underline;
+	padding: 0 20px;
+}
+a, a:link, a:visited {
+    color: #000;
+    text-decoration: none;
+	background: #fff;
+}
+a, a:link, a:visited {
+    color: #000;
+    text-decoration: none;
+}
+a.link-underline:link, a.link-underline:visited,a.link-underline:hover {
+	text-decoration: underline;
+}
+.rts-container {
+	/* width: 90%; */
+	width: 100%;
+}
+
+.rts-banner {
+	width: 90%;
+}
+.rts-nav-list li {
+    font-size: 2em;
+}
+ul {
+    list-style-position: inside;
+}
+.nav-div-wrapper {
+    text-align: center;
+}
+
+.rts-nav {
+	text-align:center;
+	margin-top: 3%;
+	width: 100%;
+	border-bottom: 1px solid #000;
+}
+.rts-nav-list li {
+	text-align:center;
+    font-size: 5vw;
+	width: 40%;
+}
+
+.index-slider {
+	height: auto !important;
+}
+
+.article {
+	text-align: left;
+	/* margin: 0 5%; */
+	margin: 0;
+}
+
+.regular {
+	display: none !important;
+}
+
+.rts-footer {
+    border-top: 1px solid #000;
+}
+.trio-wrapper {
+	width: 252px;
+	margin: 0 auto;
+}
+.course-nav-list li {
+	list-style-type: disc;
+	text-decoration: underline;
+	display: list-item;
+}
+.events-nav-list li {
+	list-style-type: disc;
+	text-decoration: none;
+	display: list-item;
+}
