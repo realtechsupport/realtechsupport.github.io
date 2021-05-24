@@ -1,0 +1,1 @@
+ffmpeg -i isea2006.mpg -c:v libvpx-vp9 -crf 10 -b:v 0 -b:a 128k -c:a libopus isea2006.webm
