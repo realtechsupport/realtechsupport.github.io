@@ -1,0 +1,109 @@
+body {
+	background-size: cover;
+    font-family: Helvetica, sans-serif;
+}
+
+
+@media (min-width: 200px) {
+    #splash a { font-size: 200%; }
+}
+
+@media (min-width: 400px) {
+    #splash a { font-size: 250%; }
+}
+
+@media (min-width: 500px) {
+    #splash a { font-size: 325%; }
+}
+
+@media (min-width: 600px) {
+    #splash a { font-size: 450%; }
+}
+
+@media (min-width: 800px) {
+    #splash a { font-size: 550%; }
+}
+
+@media (min-width: 1000px) {
+    #splash a { font-size: 700%; }
+}
+
+@media (min-width: 1200px) {
+    #splash a { font-size: 800%; }
+}
+
+@media (min-width: 1400px) {
+    #splash a { font-size: 900%; }
+}
+
+@media (min-width: 200px) {
+    #airkami-title, #airkami-menu a { font-size: 100%; line-height: 170%; }
+}
+
+@media (min-width: 400px) {
+    #airkami-title, #airkami-menu a { font-size: 125%; line-height: 170%; }
+}
+
+@media (min-width: 500px) {
+    #airkami-title, #airkami-menu a { font-size: 150%; line-height: 175%; }
+}
+
+@media (min-width: 600px) {
+    #airkami-title, #airkami-menu a { font-size: 200%; line-height: 175%; }
+}
+
+@media (min-width: 800px) {
+    #airkami-title, #airkami-menu a { font-size: 250%; line-height: 180%; }
+}
+
+@media (min-width: 1000px) {
+    #airkami-title, #airkami-menu a { font-size: 300%; line-height: 180%; }
+}
+
+@media (min-width: 1200px) {
+    #airkami-title, #airkami-menu a { font-size: 330%; line-height: 175%; }
+}
+
+@media (min-width: 1400px) {
+    #airkami-title, #airkami-menu a { font-size: 370%; line-height: 164%; }
+}
+
+
+a:link {
+	color: #64FE2E;
+ 	text-align: center;
+ 	text-decoration: none;
+    	text-shadow:5px 5px 15px #000000;
+}
+a:visited {
+	color: #64FE2E;
+ 	text-align: center;
+ 	text-decoration: none;
+    	text-shadow:5px 5px 15px #000000;
+}
+a:hover{
+	text-decoration: underline;
+   	text-shadow:5px 5px 15px #000000;
+}
+
+#splash {
+	text-align: center;
+}
+#airkami-sp {
+    height: 80%;
+}
+#airkami-list {
+    margin: -4% 0 0 46%;
+    list-style: none;
+}
+#waterbank-list {
+    margin: 2% 0 0 46%;
+    list-style: none;  
+}
+#airkami-title {
+	color: #64FE2E;
+ 	text-align: left;
+ 	text-decoration: none;
+    	text-shadow:5px 5px 15px #000000;
+    	margin: 4% 0 0 5%;
+}
