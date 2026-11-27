@@ -1,1 +1,1 @@
-# realtechsupport offers the kind of support technology really needs - active since 1987
+# realtechsupport offers the kind of support technology really needs - since 1987
